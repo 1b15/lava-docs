@@ -117,7 +117,7 @@ Quadratic Programming
 -  `Solving
    LASSO. <https://github.com/lava-nc/lava-optimization/blob/release/v0.2.0/tutorials/tutorial_01_solving_lasso.ipynb>`__
 
-Quadratic Uncosntrained Binary Optimization
+Quadratic Unconstrained Binary Optimization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `Solving Maximum Independent
